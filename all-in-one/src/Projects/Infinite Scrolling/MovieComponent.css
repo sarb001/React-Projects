@@ -1,0 +1,12 @@
+.grid-column{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 12px;
+}
+.card{
+    background-color: #809293;
+    padding: 12px;
+    width: 50%;
+    margin: 15px;
+    height: 40vh;
+}

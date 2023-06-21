@@ -1,9 +1,0 @@
-.board-container{
-    display: grid;
-    margin: 70px;
-}
-.board-row{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    justify-items: center;
-}
